@@ -1,2 +1,2 @@
 # RefreshRandoms
-Where I refres/continue where I left off
+Where I refresh/continue where I left off
